@@ -1,8 +1,6 @@
-(https://scontent.fdac1-1.fna.fbcdn.net/v/t1.6435-9/164042479_3017605015134461_4442095760557392859_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGuQEOHaguY5fkqzgzfVR8zBRao0mIYDdIFFqjSYhgN0g6nsorwTZ0Td2Y77CsmSvHVZtnAr7yu8rAWCdPjBo26&_nc_ohc=vviGglP5v7AAX-kFltU&tn=-kvc434ff9cWcQid&_nc_ht=scontent.fdac1-1.fna&oh=7475af827b6d387ac095cba800d2d075&oe=6165A42A)
-
 ### Hi there 👋, I am Jony
 #### Learner | Developer | Problem Solver
-![Learner | Developer | Problem Solver]
+![Learner | Developer | Problem Solver](https://scontent.fdac1-1.fna.fbcdn.net/v/t1.6435-9/164042479_3017605015134461_4442095760557392859_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeGuQEOHaguY5fkqzgzfVR8zBRao0mIYDdIFFqjSYhgN0g6nsorwTZ0Td2Y77CsmSvHVZtnAr7yu8rAWCdPjBo26&_nc_ohc=vviGglP5v7AAX-kFltU&tn=-kvc434ff9cWcQid&_nc_ht=scontent.fdac1-1.fna&oh=7475af827b6d387ac095cba800d2d075&oe=6165A42A)
 
 Hi, This is Jahid Hasan Jony. Studies B.Sc. in Computer Science And Engineering at Daffodil International University. I am very passionate about programming. I love problem Solving, Developing Mobile Application. In my leisure time I like to do volunteering. Experiment on data using Machine Learning.
 
