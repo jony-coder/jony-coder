@@ -1,6 +1,5 @@
 ### Hi there 👋, I am Jony
 #### Learner | Developer | Problem Solver
-![Learner | Developer | Problem Solver]
 
 Hi, This is Jahid Hasan Jony. Studies B.Sc. in Computer Science And Engineering at Daffodil International University. I am very passionate about programming. I love problem Solving, Developing Mobile Application. In my leisure time I like to do volunteering. Experiment on data using Machine Learning.
 
