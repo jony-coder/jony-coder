@@ -17,8 +17,6 @@ Skills: C / C++ / Java / Python / Flutter / Dart / Assembly
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jony-coder&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/jony-coder)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jony-coder)  
 
 ![Profile views](https://gpvc.arturio.dev/jony-coder)  
