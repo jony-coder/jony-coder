@@ -1,13 +1,13 @@
 ### Hi there 👋, I am Jony
-#### Learner | Developer | Problem Solver
+#### Learner | Machine Learner | Problem Solver
 
-Hi, This is Jahid Hasan Jony. Studies B.Sc. in Computer Science And Engineering at Daffodil International University. I am very passionate about programming. I love problem Solving, Developing Mobile Application. In my leisure time I like to do volunteering. Experiment on data using Machine Learning.
+Hi, This is Jahid Hasan Jony. Studies B.Sc. in Computer Science And Engineering at Daffodil International University. I am very passionate about programming. I love problem Solving. Experiment on data using Machine Learning.
 
 My hobbies are: Reading Book, Travelling, Watching Sci-Fi Movies.
 
 Skills: C / C++ / Java / Python / Flutter / Dart / Assembly
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: jahid.jony.cse@gmail.com 
 
 
