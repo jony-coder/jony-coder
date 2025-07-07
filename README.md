@@ -5,7 +5,7 @@ Hi, This is Jahid Hasan Jony. Studies B.Sc. in Computer Science And Engineering 
 
 My hobbies are: Reading Book, Travelling, Watching Sci-Fi Movies.
 
-Skills: C / C++ / Java / Python / Flutter / Dart / Assembly
+Skills: C / C++ / Java / Python 
 
 - 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: jahid.jony.cse@gmail.com 
